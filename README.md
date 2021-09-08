@@ -17,9 +17,9 @@ As tecnologias utilizadas na solução, foram:
 
 Software:
 
-- AppInventor: para desenvolvimento da aplicação mobile;
-- Arduino IDE: Para implementação do código de integração com o hardware;
-- Firebase para integração com o webserver.
+- [AppInventor](https://appinventor.mit.edu/): para desenvolvimento da aplicação mobile;
+- [Arduino IDE](https://www.arduino.cc/en/software): Para implementação do código de integração com o hardware;
+- [Firebase](https://firebase.google.com/) para integração com o webserver.
 
 Hardware:
 
