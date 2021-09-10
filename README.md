@@ -23,7 +23,14 @@ Software:
 
 Hardware:
 
-- Módulo WiFi ESP8266 NodeMCU ESP-12.
+- Módulo WiFi ESP8266 NodeMCU ESP-12;
+- Protoboard 640 Pontos 1 Barra Sem Suporte;
+- Jumper Macho x Macho;
+- Jumper Macho x Fêmea;
+- Módulo Relé Saída 2NA/NF 1ª (5V);
+- Lâmpada Led | 6w 6500k - Branca Fria;
+- Soquete Bocal Lorenzetti;
+- Casa de madeira com tampa removível.
 
 ### Contribuições pessoais (Individual)
 
