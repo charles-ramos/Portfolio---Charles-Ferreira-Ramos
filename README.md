@@ -15,13 +15,13 @@ O tema proposto tem como objetivo compreender o funcionamento do sistema de auto
 
 As tecnologias utilizadas na solução, foram:
 
-Software:
+#### Softwares:
 
 - [AppInventor](https://appinventor.mit.edu/): para desenvolvimento da aplicação mobile;
 - [Arduino IDE](https://www.arduino.cc/en/software): Para implementação do código de integração com o hardware;
 - [Firebase](https://firebase.google.com/) para integração com o webserver.
 
-Hardware:
+#### Hardwares:
 
 - Módulo WiFi ESP8266 NodeMCU ESP-12;
 - Protoboard 640 Pontos 1 Barra Sem Suporte;
