@@ -7,7 +7,7 @@
 
 ### Visão do Projeto (Safehouse)
 
-O tema proposto tem como objetivo compreender o funcionamento do sistema de automação residencial de baixo custo, utilizando a integração entre diversos equipamentos e dispositivos motorizados e automatizados em uma maquete que conversam entre si e interagem com um servidor web (aplicativo), podendo ser controlados à distância através de celulares, tabletes ou computadores conectados a rede ou internet. A automação de uma casa define-se em comodidade, segurança e economia. Cada dispositivo de uma casa poderá ser automatizado, como por exemplo, acender a lâmpada, abrir portão, ligar condicionador de ar e alarme. A Safehouse surge como um serviço de automação residencial voltado para a iluminação, agindo sob o intuito de gerar maior segurança aos residentes que, presentes ou não, consigam acender/apagar as lâmpadas de suas casas através de aplicativo com suporte web Server
+O tema proposto tem como objetivo compreender o funcionamento do sistema de automação residencial de baixo custo, utilizando a integração entre diversos equipamentos e dispositivos motorizados e automatizados em uma maquete que conversam entre si e interagem com um servidor web (aplicativo), podendo ser controlados à distância através de celulares, tabletes ou computadores conectados a rede ou internet. A automação de uma casa define-se em comodidade, segurança e economia. Cada dispositivo de uma casa poderá ser automatizado, como por exemplo, acender a lâmpada, abrir portão, ligar condicionador de ar e alarme. A Safehouse surge como um serviço de automação residencial voltado para a iluminação, agindo sob o intuito de gerar maior segurança aos residentes que, presentes ou não, consigam acender/apagar as lâmpadas de suas casas através de aplicativo com suporte web Server.
 
 [Safehouse - Automação LED](https://github.com/charles-ramos/Automa-o-de-LED-via-html)
 
@@ -23,7 +23,7 @@ Software:
 
 Hardware:
 
-- Módulo WiFi ESP8266 NodeMCU ESP-12
+- Módulo WiFi ESP8266 NodeMCU ESP-12.
 
 ### Contribuições pessoais (Individual)
 
@@ -35,7 +35,7 @@ Utilizando a metodologia SCRUM, desempenhei o papel de Master, onde pude acompan
   
 - Gerenciamento da equipe, para divisão das atividades;
   
-- Cálculo de custos da solução como negócio e desenvolvimento da [apresentação do produto](https://github.com/charles-ramos/Automa-o-de-LED-via-html/blob/master/Apresentac%CC%A7a%CC%83o%20Projeto.pdf)
+- Cálculo de custos da solução como negócio e desenvolvimento da [apresentação do produto](https://github.com/charles-ramos/Automa-o-de-LED-via-html/blob/master/Apresentac%CC%A7a%CC%83o%20Projeto.pdf).
 
 ### Aprendizados Efetivos HS (Individual)
 
@@ -47,7 +47,7 @@ Os principais aprendizados extraídos deste projeto foram:
   
 - Aplicabilidade da metodologia SCRUM;
   
-- Integração de software com web servers
+- Integração de software com web servers.
 
 ### Teste de Integração
 
