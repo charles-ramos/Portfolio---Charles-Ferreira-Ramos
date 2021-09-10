@@ -1,5 +1,4 @@
 # Portfolio - Charles Ferreira Ramos
-
 ## Projeto 1: 2019-2
 
 ### Parceiro Acadêmico
