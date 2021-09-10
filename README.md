@@ -48,3 +48,11 @@ Os principais aprendizados extraídos deste projeto foram:
 - Aplicabilidade da metodologia SCRUM;
   
 - Integração de software com web servers
+
+### Teste de Integração
+
+Tecnologia | Classificação
+:---------: | :------:
+AppInventor     | Sei fazer com autonomia
+Arduino IDE    | Faço com ajuda
+Firebase    | Faço com ajuda
