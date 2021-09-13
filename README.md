@@ -10,6 +10,32 @@ O tema proposto tem como objetivo compreender o funcionamento do sistema de auto
 
 [Safehouse - Automação LED](https://github.com/charles-ramos/Automa-o-de-LED-via-html)
 
+[Documentação completa](https://github.com/charles-ramos/Automa-o-de-LED-via-html/blob/master/Safehouse.pdf)
+  
+### Arquitetura da Aplicação
+
+<div align="center">
+
+  <img src="./imagens/arquitetura-aplicacao.png" height="300" width="400"/>
+<br>
+<br>
+
+<p align="left">Conexão componentes de hardware:</p>
+
+  <img src="./imagens/hardware-conexao.png" height="300" width="400"/>
+
+</div>
+
+### Maquete
+
+Apresentação da solução:
+
+<div align="center">
+
+  <img src="./imagens/maquete-1.png" width="250"/>
+  <img src="./imagens/maquete-2.png" width="283"/>
+</div>
+
 ### Tecnologias adotadas na solução (Equipe)
 
 As tecnologias utilizadas na solução, foram:
