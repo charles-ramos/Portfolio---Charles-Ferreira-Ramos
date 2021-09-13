@@ -11,6 +11,8 @@ O tema proposto tem como objetivo compreender o funcionamento do sistema de auto
 
 [Safehouse - Automação LED](https://github.com/charles-ramos/Automa-o-de-LED-via-html)
 
+[Documentação completa](https://github.com/charles-ramos/Automa-o-de-LED-via-html/blob/master/Safehouse.pdf)
+  
 ### Arquitetura da Aplicação
 
 <div align="center">
