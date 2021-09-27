@@ -33,7 +33,7 @@ Também realizei a publicação de alguns artigos tutoriais de como criar app te
 
 - [Como criar um clone do WhatsApp?](https://blog.back4app.com/pt/como-criar-um-clone-do-whatsapp/)
 
-E também artigos comparativos de conceitos, serviços, platatformas e tecnologias:
+E também artigos comparativos de conceitos, serviços, plataformas e tecnologias:
 
 - [As 7 principais alternativas ao Appcelerator](https://blog.back4app.com/pt/alternativas-appcelerator/)
 
