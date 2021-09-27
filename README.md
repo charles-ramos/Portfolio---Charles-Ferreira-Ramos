@@ -1,19 +1,21 @@
 # Portfolio - Charles Ferreira Ramos
 
+Apresentação dos projetos desenvolvidos de todos os APIs (Aprendizagem por Projetos Integrados), programa oferecido pela [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](http://fatecsjc-prd.azurewebsites.net/).
+
 # Sumário
 
-  * [Sobre](#sobre-mim)
+  * [Portfolio - Charles Ferreira Ramos](#portfolio---charles-ferreira-ramos)
+  * [Sobre Mim](#sobre-mim)
   * [Projetos Acadêmicos](#projetos-acadêmicos)
     * [Em 2019-2](#em-2019-2)
-    * [Arquitetura da Aplicação](#arquitetura-da-aplicação)
-    * [Maquete](#maquete)
-    * [Tecnologias](#tecnologias)
-      * [Softwares](#softwares)
-      * [Hardwares](#hardwares)
-    * [Contribuições Pessoais](#contribuições-pessoais)
-    * [Hard Skills](#hard-skills)
-    * [Soft Skills](#soft-skills)
-
+      * [Arquitetura da Aplicação](#arquitetura-da-aplicação)
+      * [Maquete](#maquete)
+      * [Tecnologias](#tecnologias)
+        * [Softwares](#softwares)
+        * [Hardwares](#hardwares)
+      * [Contribuições Pessoais](#contribuições-pessoais)
+      * [Hard Skills](#hard-skills)
+      * [Soft Skills](#soft-skills)
 
 ## Sobre mim
 
