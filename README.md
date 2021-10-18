@@ -174,7 +174,7 @@ O tema proposto foi conduzido a partir de uma ideia sobre como poderíamos atrav
 #### Arquitetura da Aplicação
 
 <div align="center">
-  <img src="./imagens/arquitetura2.png" height="300" width="400"/>
+  <img src="./imagens/arquitetura2.png" />
 </div>
 
 #### Demonstração da Solução
@@ -246,20 +246,17 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 
 [ShapeGIS](https://github.com/BureauTech/Mini-ETL-Shapefile-to-PostGis)
 
-#### Arquitetura do Projeto
+#### Arquitetura da Solução
 
 <div align="center">
-  <img src="./imagens/arquitetura-2020-2.png" height="300" width="400"/>
+  <img src="./imagens/arquitetura-2020-2.png" />
 </div>
-
 
 #### Demonstração da Solução
 
 ![GIF - Demonstração](https://github.com/BureauTech/Mini-ETL-Shapefile-to-PostGis/blob/sprint-4/assets/images/gif/demo-sprint-4.gif)
 
 ### Tecnologias Utilizadas
-
-###### Software:
 
 - [Java](https://www.java.com/pt-BR/): Linguagem de programação para desenvolvimento Back-End;	
 - [ReactJS](https://reactjs.org/): Biblioteca para acelerar o desenvolvimento da interface;	
@@ -269,7 +266,6 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 - [Astah](https://astah.net/): Para modelagem do Diagrama de Caso de Uso, de Classes, DER e MER;	
 - [Git](https://git-scm.com/): Para controle de versionamento;	
 - [GitHub](https://github.com/): Para gerenciamento e armazenamento do projeto.	
-
 
 ### Contribuições pessoais
 
