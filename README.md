@@ -246,7 +246,7 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 
 [ShapeGIS](https://github.com/BureauTech/Mini-ETL-Shapefile-to-PostGis)
 
-#### Arquitetura da Solução
+#### Arquitetura da Aplicação
 
 <div align="center">
   <img src="./imagens/arquitetura-2020-2.png" />
