@@ -17,14 +17,12 @@ Apresentação dos projetos desenvolvidos de todos os APIs (Aprendizagem por Pro
       * [Hard Skills](#hard-skills)
       * [Soft Skills](#soft-skills)
     * [Em 2020-1](#em-2020-1)
-      * [Arquitetura da Aplicação](#arquitetura-da-aplicação-2)
-      * [Demonstração](#demonstracao-2)
-      * [Tecnologias](#tecnologias-2)
-        * [Softwares](#softwares-2)
-        * [Hardwares](#hardwares-2)
-      * [Contribuições Pessoais](#contribuições-pessoais-2)
-      * [Hard Skills](#hard-skills-2)
-      * [Soft Skills](#soft-skills-2)
+      * [Arquitetura da Aplicação](#arquitetura-da-aplicação-1)
+      * [Demonstração](#demonstracao-da-solução)
+      * [Tecnologias](#tecnologias-1)
+      * [Contribuições Pessoais](#contribuições-pessoais-1)
+      * [Hard Skills](#hard-skills-1)
+      * [Soft Skills](#soft-skills-1)
 
 ## Sobre mim
 
@@ -171,14 +169,15 @@ O tema proposto foi conduzido a partir de uma ideia sobre como poderíamos atrav
 <div align="center">
   <img src="./imagens/arquitetura2.png" height="300" width="400"/>
 <br>
+</div>
 
-
+#### Demonstração da Solução
 
 ![GIF - Demonstração](https://github.com/BureauTech/PI-SPCBrasil-2020/blob/master/arquivos_readme/gif_demonstracao.gif)
 
 <br>
 
-![Video da solução](https://www.youtube.com/watch?v=FWIq11U5yv4)
+Também é possível ver o vídeo de apresentação da solução [neste link](https://www.youtube.com/watch?v=FWIq11U5yv4).
 </div>
 
 ### Tecnologias
