@@ -18,7 +18,7 @@ Apresentação dos projetos desenvolvidos de todos os APIs (Aprendizagem por Pro
       * [Soft Skills](#soft-skills)
     * [Em 2020-1](#em-2020-1)
       * [Arquitetura da Aplicação](#arquitetura-da-aplicação-1)
-      * [Demonstração](#demonstracao-da-solução)
+      * [Demonstração](#demonstração-da-solução)
       * [Tecnologias](#tecnologias-1)
       * [Contribuições Pessoais](#contribuições-pessoais-1)
       * [Hard Skills](#hard-skills-1)
