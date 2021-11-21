@@ -1,11 +1,12 @@
-# 2020-1
-- [2020-1](#2020-1)
+# VisualData - 2020-1
+- [VisualData - 2020-1](#visualdata---2020-1)
       - [Arquitetura da Aplicação](#arquitetura-da-aplicação)
       - [Demonstração da Solução](#demonstração-da-solução)
     - [Tecnologias](#tecnologias)
     - [Contribuições Pessoais](#contribuições-pessoais)
       - [Hard Skills](#hard-skills)
       - [Soft Skills](#soft-skills)
+    - [Menu de Navegação](#menu-de-navegação)
 
 Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/).
 
@@ -83,6 +84,8 @@ Utilizando a metodologia SCRUM, desempenhei o papel de PO (Product Owner), onde 
 | Metodologia SCRUM  | Faço com ajuda |
 | Trabalho em equipe | Faço com ajuda |
 | Design Thinking    | Faço com ajuda |
+
+### Menu de Navegação
 
 [Retonar ao Readme principal](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos)
 

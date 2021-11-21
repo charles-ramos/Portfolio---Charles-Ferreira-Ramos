@@ -1,4 +1,12 @@
 ### ShapeGIS - 2020-2	
+- [ShapeGIS - 2020-2](#shapegis---2020-2)
+  - [Arquitetura da Aplicação](#arquitetura-da-aplicação)
+  - [Demonstração da Solução](#demonstração-da-solução)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Contribuições pessoais](#contribuições-pessoais)
+  - [Hard Skills](#hard-skills)
+  - [Soft Skills](#soft-skills)
+- [Menu de Navegação](#menu-de-navegação)
 
 Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.br/)
 
@@ -64,6 +72,8 @@ Todas as contribuições estão diponíveis [aqui](https://github.com/BureauTech
 | Metodologia SCRUM  | Faço com autonomia |
 | Trabalho em equipe | Faço com autonomia |
 |  Design Thinking   | Faço com autonomia |
+
+### Menu de Navegação
 
 [Retonar ao Readme principal](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos)
 
