@@ -68,6 +68,4 @@ Desempenhei o papel de Desenvolvedor, utilizando a metodolia SCRUM, onde pude co
 
 [Retonar ao Readme principal](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos)
 
-Ver projeto anterior [ShapeGIS - 2020-1](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos/blob/master/Projetos/ShapeGIS.md)
-
-Ver próximo projeto [BureAuto - 2021-2](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos/blob/master/Projetos/BureAuto.md)
+Ver projeto anterior [SISATAS - 2021-1](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos/blob/master/Projetos/SISATAS.md)
