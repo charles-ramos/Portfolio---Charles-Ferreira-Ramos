@@ -1,4 +1,4 @@
-### Em 2020-2	
+### ShapeGIS - 2020-2	
 
 Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.br/)
 
@@ -18,9 +18,7 @@ Parceiro Acadêmico: [Visiona Tecnologia Espacial](https://visionaespacial.com.b
 
 ![GIF - Demonstração](https://github.com/BureauTech/Mini-ETL-Shapefile-to-PostGis/blob/sprint-4/assets/images/gif/demo-sprint-4.gif)
 
-
 Também é possível ver o vídeo de apresentação da solução [neste link](hhttps://www.youtube.com/watch?v=Vg5b7eITRV8).
-
 
 ### Tecnologias Utilizadas
 
