@@ -1,6 +1,6 @@
-# 2019-2
+# Safehouse - 2019-2
 
-- [2019-2](#2019-2)
+- [Safehouse - 2019-2](#safehouse---2019-2)
     - [Projeto Acadêmico](#projeto-acadêmico)
       - [Arquitetura da Aplicação](#arquitetura-da-aplicação)
       - [Maquete](#maquete)
