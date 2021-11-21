@@ -54,7 +54,6 @@ E também artigos comparativos de conceitos, serviços, plataformas e tecnologia
 
 - [Quais projetos são mais adequados para o BaaS?](https://blog.back4app.com/pt/baas-exemplos-apps/)
 
-
 ## Projetos Acadêmicos
 
 - [Safehouse - 2019-2](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos/blob/master/Projetos/Safehouse.md)
