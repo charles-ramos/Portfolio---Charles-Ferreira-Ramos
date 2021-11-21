@@ -1,4 +1,15 @@
 ### SISATAS - 2021-1	
+- [SISATAS - 2021-1](#sisatas---2021-1)
+- [Projeto Acadêmico](#projeto-acadêmico)
+    - [Prévia da solução](#prévia-da-solução)
+  - [Protótipo das telas](#protótipo-das-telas)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Contribuições pessoais](#contribuições-pessoais)
+  - [Hard Skills](#hard-skills)
+  - [Soft Skills](#soft-skills)
+- [Menu de Navegação](#menu-de-navegação)
+
+### Projeto Acadêmico
 
 Parceiro Acadêmico: [IACIT](https://www.iacit.com.br/)
 
@@ -6,15 +17,18 @@ O tema proposto foi conduzido a partir da necessidade, da empresa parceira, do g
 
 ​SISATAS é uma aplicação WEB desenvolvida para suprir a necessidade da empresa parceira, desenvolvida com tecnologias atuais, o sistema possui login logout, que restringe o acesso aos níveis de usuários, bem como o gerenciamento do usuário, possui também módulo para solicitação e recuperação automática de senha, criar atas, inserir seus responsáveis, aprovar, enviá-las e exportar para Excel, visualizar e extrair relatórios de atas e usuários e, sistema de notificação.
 
-[SISATAS](https://github.com/BureauTech/ProjectSisatas), [documentação completa]([https://github.com/BureauTech/ProjectSisatas/blob/master/docs/Documentação SISATAS.pdf](https://github.com/BureauTech/ProjectSisatas/blob/master/docs/Documenta%C3%A7%C3%A3o%20SISATAS.pdf)).
+[SISATAS](https://github.com/BureauTech/ProjectSisatas), [documentação completa](https://github.com/BureauTech/ProjectSisatas/blob/master/docs/Documenta%C3%A7%C3%A3o%20SISATAS.pdf).
 
 ##### Prévia da solução
 
 ![SISATAS - Prévia](https://github.com/BureauTech/ProjectSisatas/blob/master/assets/gifs/Representacao%20-%20Sprint3.gif)
 
+
+Também é possível ver o vídeo de apresentação da solução [neste link](https://www.youtube.com/watch?v=KRr74SBZvqQ).
+
 #### Protótipo das telas
 
-![Tour geral da soluão](https://github.com/BureauTech/ProjectSisatas/blob/master/assets/gifs/telas.gif)
+![Tour geral da solução](https://github.com/BureauTech/ProjectSisatas/blob/master/assets/gifs/telas.gif)
 
 ### Tecnologias Utilizadas
 
@@ -59,6 +73,7 @@ Desempenhei o papel de PO (Product Owner), utilizando a metodolia SCRUM, onde pu
 | Trabalho em equipe | Faço com autonomia |
 |  Design Thinking   | Faço com autonomia |
 
+### Menu de Navegação
 
 [Retonar ao Readme principal](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos)
 

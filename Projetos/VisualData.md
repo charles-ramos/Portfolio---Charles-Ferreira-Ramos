@@ -1,5 +1,6 @@
 # VisualData - 2020-1
 - [VisualData - 2020-1](#visualdata---2020-1)
+    - [Projeto Acadêmico](#projeto-acadêmico)
       - [Arquitetura da Aplicação](#arquitetura-da-aplicação)
       - [Demonstração da Solução](#demonstração-da-solução)
     - [Tecnologias](#tecnologias)
@@ -7,6 +8,8 @@
       - [Hard Skills](#hard-skills)
       - [Soft Skills](#soft-skills)
     - [Menu de Navegação](#menu-de-navegação)
+
+### Projeto Acadêmico
 
 Parceiro Acadêmico: [SPC Brasil](https://www.spcbrasil.org.br/).
 
