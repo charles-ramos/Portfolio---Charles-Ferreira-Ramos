@@ -1,6 +1,6 @@
-# Em 2019-2
+# 2019-2
 
-- [Em 2019-2](#em-2019-2)
+- [2019-2](#2019-2)
     - [Projeto Acadêmico](#projeto-acadêmico)
       - [Arquitetura da Aplicação](#arquitetura-da-aplicação)
       - [Maquete](#maquete)
