@@ -1,7 +1,6 @@
 ### SISATAS - 2021-1	
 - [SISATAS - 2021-1](#sisatas---2021-1)
 - [Projeto Acadêmico](#projeto-acadêmico)
-    - [Prévia da solução](#prévia-da-solução)
   - [Protótipo das telas](#protótipo-das-telas)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Contribuições pessoais](#contribuições-pessoais)
@@ -19,16 +18,12 @@ O tema proposto foi conduzido a partir da necessidade, da empresa parceira, do g
 
 [SISATAS](https://github.com/BureauTech/ProjectSisatas), [documentação completa](https://github.com/BureauTech/ProjectSisatas/blob/master/docs/Documenta%C3%A7%C3%A3o%20SISATAS.pdf).
 
-##### Prévia da solução
-
-![SISATAS - Prévia](https://github.com/BureauTech/ProjectSisatas/blob/master/assets/gifs/Representacao%20-%20Sprint3.gif)
-
-
-Também é possível ver o vídeo de apresentação da solução [neste link](https://www.youtube.com/watch?v=KRr74SBZvqQ).
 
 #### Protótipo das telas
 
 ![Tour geral da solução](https://github.com/BureauTech/ProjectSisatas/blob/master/assets/gifs/telas.gif)
+
+Também é possível ver o vídeo de apresentação da solução ![neste link](https://www.youtube.com/watch?v=KRr74SBZvqQ).
 
 ### Tecnologias Utilizadas
 
@@ -39,7 +34,6 @@ Também é possível ver o vídeo de apresentação da solução [neste link](ht
 - [Maven](https://maven.apache.org/) : Software para gerenciamento de projetos;
 - [ReactJS](https://reactjs.org/) : Biblioteca para acelerar desenvolvimento da interface;
 - [Material-UI](https://material-ui.com/) : Biblioteca para acelerar desenvolvimento da interface;	
-
 
 ### Contribuições pessoais
 

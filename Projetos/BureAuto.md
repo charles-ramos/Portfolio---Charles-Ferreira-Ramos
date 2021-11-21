@@ -1,7 +1,6 @@
 ### BureAuto - 2021-2	
 - [BureAuto - 2021-2](#bureauto---2021-2)
 - [Projeto Acadêmico](#projeto-acadêmico)
-    - [Prévia da solução](#prévia-da-solução)
   - [Protótipo das telas](#protótipo-das-telas)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Contribuições pessoais](#contribuições-pessoais)
@@ -19,9 +18,6 @@ BureAuto é uma aplicação WEB e Mobile, desenvolvida para suprir a necessidade
 
 [BureAuto](https://github.com/BureauTech/BureAuto), [documentação completa](https://github.com/BureauTech/BureAuto/blob/master/doc/artefatos/documentacao_BureAuto.pdf).
 
-##### Prévia da solução
-
-![BureAuto - Prévia](https://github.com/BureauTech/BureAuto/blob/master/doc/gif/entrega-sprint-3.gif)
 
 #### Protótipo das telas
 
