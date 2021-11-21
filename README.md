@@ -3,14 +3,17 @@
 Apresentação dos projetos desenvolvidos de todos os APIs (Aprendizagem por Projetos Integrados), programa oferecido pela [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](http://fatecsjc-prd.azurewebsites.net/).
 
 # Sumário
+- [Portfolio - Charles Ferreira Ramos](#portfolio---charles-ferreira-ramos)
+- [Sumário](#sumário)
+- [Sobre mim](#sobre-mim)
+  - [Contatos](#contatos)
+- [Projetos Acadêmicos](#projetos-acadêmicos)
 
-  * [Portfolio - Charles Ferreira Ramos](#portfolio---charles-ferreira-ramos)
-  * [Sobre Mim](#sobre-mim)
-  * [Projetos Acadêmicos](#projetos-acadêmicos)
-
-## Sobre mim
+# Sobre mim
 
 Formado em Administração de empresas e atualmente aluno do 5° semestre do curso de Análise e Desenvolvimento de Sistemas da [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](http://fatecsjc-prd.azurewebsites.net/). Sou também Analista de Suporte de TI pela [Back4App](https://back4app.com) desde 2019.
+
+Meus principais conhecimentos em desenvolvimento de projetos estão mais ligadas ao desenvolvimento FrontEnd, sendo Javascript, ReactJS, VueJS e também na metodologia SCRUM (como desenvolvedor e como PO), levantamento de requisitos, negociação e trabalho em equipe.
 
 Fui palestrante convidado para a edição 2021 do Technovation Girls Brasil, uma ONG que promove a inclusão de meninas de baixa renda à tecnologia a realizar um workshop sobre o App Inventor. Para saber mais sobre minha participação, [clique aqui](https://www.youtube.com/watch?v=I8StXM3tiWo).
 
@@ -54,7 +57,11 @@ E também artigos comparativos de conceitos, serviços, plataformas e tecnologia
 
 - [Quais projetos são mais adequados para o BaaS?](https://blog.back4app.com/pt/baas-exemplos-apps/)
 
-## Projetos Acadêmicos
+## Contatos
+
+[Charles Ramos](https://bit.ly/charlesramos)
+
+# Projetos Acadêmicos
 
 - [Safehouse - 2019-2](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos/blob/master/Projetos/Safehouse.md)
 - [VisualData - 2020-1](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos/blob/master/Projetos/VisualData.md)
