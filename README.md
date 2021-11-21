@@ -59,10 +59,6 @@ E também artigos comparativos de conceitos, serviços, plataformas e tecnologia
 
 - [Fornecedores de backend para jogos de celular](https://blog.back4app.com/pt/backend-jogos/)
 
-- [Backend as a Service – O que é?](https://blog.back4app.com/pt/backend-as-a-service/)
-
-- [As melhores alternativas ao Firebase em 2021](https://blog.back4app.com/pt/as-melhores-alternativas-ao-firebase-em-2021/)
-
 - [Baas vs PaaS: Qual é a melhor opção?](https://blog.back4app.com/pt/baas-vs-paas-qual-e-a-melhor-opcao/)
 
 - [Quais são os melhores mBaaS Open Source?](https://blog.back4app.com/pt/melhores-mbaas-open-source/)
