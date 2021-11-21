@@ -83,3 +83,9 @@ Utilizando a metodologia SCRUM, desempenhei o papel de PO (Product Owner), onde 
 | Metodologia SCRUM  | Faço com ajuda |
 | Trabalho em equipe | Faço com ajuda |
 | Design Thinking    | Faço com ajuda |
+
+[Retonar ao Readme principal](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos)
+
+Ver projeto anterior [Safehouse - 2019-2](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos/blob/master/Projetos/Safehouse.md)
+
+Ver próximo projeto [ShapeGIs - 2020-2](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos/blob/master/Projetos/ShapeGIS.md)
