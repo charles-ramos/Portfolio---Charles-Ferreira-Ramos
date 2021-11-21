@@ -74,3 +74,5 @@ Desempenhei o papel de PO (Product Owner), utilizando a metodolia SCRUM, onde pu
 Ver projeto anterior [ShapeGIS - 2020-1](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos/blob/master/Projetos/ShapeGIS.md)
 
 Ver próximo projeto [BureAuto - 2021-2](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos/blob/master/Projetos/BureAuto.md)
+
+Se interessou? Entre em contato comigo [Charles Ramos](https://bit.ly/charlesramos)

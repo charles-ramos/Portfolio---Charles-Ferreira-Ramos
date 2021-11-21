@@ -6,8 +6,8 @@ Apresentação dos projetos desenvolvidos de todos os APIs (Aprendizagem por Pro
 - [Portfolio - Charles Ferreira Ramos](#portfolio---charles-ferreira-ramos)
 - [Sumário](#sumário)
 - [Sobre mim](#sobre-mim)
-  - [Contatos](#contatos)
 - [Projetos Acadêmicos](#projetos-acadêmicos)
+- [Contato](#contato)
 
 # Sobre mim
 
@@ -57,10 +57,6 @@ E também artigos comparativos de conceitos, serviços, plataformas e tecnologia
 
 - [Quais projetos são mais adequados para o BaaS?](https://blog.back4app.com/pt/baas-exemplos-apps/)
 
-## Contatos
-
-[Charles Ramos](https://bit.ly/charlesramos)
-
 # Projetos Acadêmicos
 
 - [Safehouse - 2019-2](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos/blob/master/Projetos/Safehouse.md)
@@ -68,3 +64,7 @@ E também artigos comparativos de conceitos, serviços, plataformas e tecnologia
 - [ShapeGIS - 2020-2](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos/blob/master/Projetos/ShapeGIS.md)
 - [SISATAS - 2021-1](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos/blob/master/Projetos/SISATAS.md)
 - [BureAuto - 2021-2](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos/blob/master/Projetos/BureAuto.md)
+
+# Contato
+
+Se interessou? Entre em contato comigo [Charles Ramos](https://bit.ly/charlesramos)
