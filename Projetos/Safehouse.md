@@ -10,6 +10,7 @@
     - [Contribuições Pessoais](#contribuições-pessoais)
       - [Hard Skills](#hard-skills)
       - [Soft Skills](#soft-skills)
+    - [Menu de Navegação](#menu-de-navegação)
 
 ### Projeto Acadêmico
 
@@ -86,6 +87,8 @@ Habilidade | Classificação
 :---------: | :------:
 Metodologia SCRUM    | Faço com ajuda
 Trabalho em equipe    | Faço com ajuda
+
+### Menu de Navegação
 
 [Retonar ao Readme principal](https://github.com/charles-ramos/Portfolio-Charles-Ferreira-Ramos)
 
