@@ -25,13 +25,13 @@ O tema proposto tem como objetivo compreender o funcionamento do sistema de auto
 
 <div align="center">
 
-  <img src="./imagens/arquitetura-aplicacao.png" height="300" width="400"/>
+  <img src="../imagens/arquitetura-aplicacao.png" height="300" width="400"/>
 <br>
 <br>
 
 <p align="left">Conexão componentes de hardware:</p>
 
-  <img src="./imagens/hardware-conexao.png" height="300" width="400"/>
+  <img src="../imagens/hardware-conexao.png" height="300" width="400"/>
 
 </div>
 
@@ -41,8 +41,8 @@ Apresentação da solução:
 
 <div align="center">
 
-  <img src="./imagens/maquete-1.png" width="250"/>
-  <img src="./imagens/maquete-2.png" width="283"/>
+  <img src="../imagens/maquete-1.png" width="250"/>
+  <img src="../imagens/maquete-2.png" width="283"/>
 </div>
 
 ### Tecnologias
