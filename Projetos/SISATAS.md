@@ -23,7 +23,7 @@ O tema proposto foi conduzido a partir da necessidade, da empresa parceira, do g
 
 ![Tour geral da solução](https://github.com/BureauTech/ProjectSisatas/blob/master/assets/gifs/telas.gif)
 
-Também é possível ver o vídeo de apresentação da solução ![neste link](https://www.youtube.com/watch?v=KRr74SBZvqQ).
+Também é possível ver o vídeo de apresentação da solução [neste link](https://www.youtube.com/watch?v=KRr74SBZvqQ).
 
 ### Tecnologias Utilizadas
 
