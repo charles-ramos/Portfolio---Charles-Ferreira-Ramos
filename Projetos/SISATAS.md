@@ -37,7 +37,7 @@ Também é possível ver o vídeo de apresentação da solução [neste link](ht
 
 ### Contribuições pessoais
 
-Desempenhei o papel de PO (Product Owner), utilizando a metodolia SCRUM, onde pude levantar requisitos com o cliente, definir backlog, alinhar expectativas, sanar dúvidas do time e também identificar as necessidades do cliente durante o desenvolvimento da solução. Consegui também desenvolver algumas atividades de desenvolvimento, que me ajudar a melhor aspectos mais técnicos, que me ajudaram no meu desempenho acadêmico. Minhas contribuições foram:
+Desempenhei o papel de PO (Product Owner), utilizando a metodologia SCRUM, onde pude levantar requisitos com o cliente, definir backlog, alinhar expectativas, sanar dúvidas do time e também identificar as necessidades do cliente durante o desenvolvimento da solução. Consegui também desenvolver algumas atividades de desenvolvimento, que me ajudar a melhor aspectos mais técnicos, que me ajudaram no meu desempenho acadêmico. Minhas contribuições foram:
 
 - Definição dos requisitos com a utilização do Design Thinking;
 - Desenvolvimento dos artefatos, como backlog, manual de usuário e plano de melhoria da aplicação.
