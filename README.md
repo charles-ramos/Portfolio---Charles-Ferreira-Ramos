@@ -11,7 +11,7 @@ Apresentação dos projetos desenvolvidos de todos os APIs (Aprendizagem por Pro
 
 # Sobre mim
 
-Formado em Administração de empresas e atualmente aluno do 5° semestre do curso de Análise e Desenvolvimento de Sistemas da [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](http://fatecsjc-prd.azurewebsites.net/). Sou também Analista de Suporte de TI pela [Back4App](https://back4app.com) desde 2019.
+Formado em Administração de empresas e atualmente aluno do 6° semestre do curso de Análise e Desenvolvimento de Sistemas da [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](http://fatecsjc-prd.azurewebsites.net/). Sou também Analista de Suporte de TI pela [Back4App](https://back4app.com) desde 2019.
 
 Meus principais conhecimentos em desenvolvimento de projetos estão mais ligadas ao desenvolvimento FrontEnd, sendo Javascript, ReactJS, VueJS e também na metodologia SCRUM (como desenvolvedor e como PO), levantamento de requisitos, negociação e trabalho em equipe.
 
