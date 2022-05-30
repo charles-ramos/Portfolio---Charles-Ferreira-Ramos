@@ -30,7 +30,7 @@ Links de acesso a todos os repositórios desse semestre:
 
 As tecnologias utilizadas na solução, foram:
 
-- [Java](https://www.java.com/pt-BR/), uma linguagem de programação orientada a objetos, poderosa e confiável, escolhida pela equipe para que possa aguentar bem os testes de carga.  
+- [Java](https://www.java.com/pt-BR/), uma linguagem de programação orientada a objetos, poderosa e confiável, escolhida pela equipe para que possa aguentar bem os testes de carga.  Importante para desenvolvimento do Back-end da aplicação teste. 
 
 - [Spring](https://spring.io/) é um framework open source para a plataforma Java. Trata-se de um framework não intrusivo, baseado nos padrões de projeto inversão de controle e injeção de dependência. Faz com que a programação em Java seja mais rápida, fácil e segura, focando na implementação da solução.
 
@@ -38,11 +38,11 @@ As tecnologias utilizadas na solução, foram:
 
 - [PostgreSQL](https://www.postgresql.org/) um banco de dados relacional open source poderoso, robusto e perfomático, super simples de utilizar e com muitas ferramentas e extensões poderosas.  
 
-- [Vue JS](https://vuejs.org/) é um framework open source para o desenvolvimento de interfaces com foco no SPA (Single Page Application). Muito simples e intuitivo de se utilizar.
+- [Vue JS](https://vuejs.org/) é um framework open source para o desenvolvimento de interfaces com foco no SPA (Single Page Application). Muito simples e intuitivo de se utilizar. Importante para desenvolvimento do Front-end da aplicação teste.
 
 - [Vuetify](https://vuetifyjs.com/en/), que conta com diversos componentes estilizados e responsivos pré-prontos, facilitando o desenvolvimento.
 
-- [Python](https://www.python.org/), uma linguagem de programação simples, intuitiva e de fácil aprendizado, além de ser poderosa para Machine Learning.
+- [Python](https://www.python.org/), uma linguagem de programação simples, intuitiva e de fácil aprendizado, além de ser poderosa para Machine Learning. Importante para desenvolvimento do modelo de inteligência artificial para a aplicação alvo.
 
 ### Contribuições Pessoais
 
